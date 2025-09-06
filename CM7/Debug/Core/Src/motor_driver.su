@@ -1,0 +1,8 @@
+../Core/Src/motor_driver.c:19:34:MD_GetCCR	16	static
+../Core/Src/motor_driver.c:34:20:MD_WriteDuty	24	static
+../Core/Src/motor_driver.c:54:6:MotorDriver_Init	24	static
+../Core/Src/motor_driver.c:93:6:MotorDriver_Stop	16	static
+../Core/Src/motor_driver.c:104:6:MotorDriver_CW	16	static
+../Core/Src/motor_driver.c:115:6:MotorDriver_CCW	16	static
+../Core/Src/motor_driver.c:125:6:MotorDriver_Brake	16	static
+../Core/Src/motor_driver.c:136:6:MotorDriver_EncoderUpdate	24	static
